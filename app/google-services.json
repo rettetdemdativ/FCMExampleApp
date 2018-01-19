@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941000715905",
+    "firebase_url": "https://fcmexampleapp-a2508.firebaseio.com",
+    "project_id": "fcmexampleapp-a2508",
+    "storage_bucket": "fcmexampleapp-a2508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941000715905:android:e77d0e8b2fb4e364",
+        "android_client_info": {
+          "package_name": "go.vienna.fcmexample.fcmexampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941000715905-dshv72vhfigio681n2i93mpg0rtr699o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "go.vienna.fcmexample.fcmexampleapp",
+            "certificate_hash": "b0da500b48d0a8440186ea15da8ceeb172d37baa"
+          }
+        },
+        {
+          "client_id": "941000715905-pviafnk9eogdqobfjauv2j3dve0hqqjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwan-udbauKXBeiSNzKjNS4moo9b-uGLc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941000715905-pviafnk9eogdqobfjauv2j3dve0hqqjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCMExampleApp</string>
+
+    <string name="fcm_message_text">Message: %1$s</string>
+    <string name="fcm_token_text">ID: %1$s</string>
+
+    <string name="notification_channel_name">FCMExampleApp</string>
+    <string name="notification_channel_description">Notification with text</string>
+</resources>
